@@ -1,0 +1,425 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: google-map-for-elementor\n"
+"POT-Creation-Date: 2018-04-20 09:44+0200\n"
+"PO-Revision-Date: 2018-08-29 16:25+0200\n"
+"Last-Translator: FreePixel <contact@freepixel.net>\n"
+"Language-Team: FreeWebPixel\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: google-map-for-elementor\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__e\n"
+"X-Poedit-SearchPath-0: elementor-google-map-extended.php\n"
+"X-Poedit-SearchPath-1: elementor-helper.php\n"
+"X-Poedit-SearchPath-2: includes/class.settings-api.php\n"
+"X-Poedit-SearchPath-3: includes/page-settings.php\n"
+"X-Poedit-SearchPath-4: widgets/eb-google-map-extended-widget.php\n"
+
+#: elementor-google-map-extended.php:59
+msgid ""
+"You do not have Elementor Page Builder on your WordPress. Elementor Google "
+"Map Extended require Elementor in order to work."
+msgstr ""
+"Vous n'avez pas Elementor Page Builder sur votre site WordPress. "
+"L’extension Google Map Extended nécessite Elementor pour fonctionner."
+
+#: elementor-google-map-extended.php:72
+msgid ""
+"Multiple Map Marker For Elementor Page Builder may not work or is not compatible because you "
+"are using an old version of Elementor."
+msgstr ""
+"Multiple Map Marker For Elementor Page Builder peut ne pas fonctionner ou n’est pas "
+"compatible car vous utilisez une ancienne version d’Elementor."
+
+#: elementor-google-map-extended.php:73
+msgid "Update Elementor Now"
+msgstr "Mettre à jour Elementor maintenant"
+
+#: includes/class.settings-api.php:359
+msgid "Choose File"
+msgstr "Choisissez un fichier"
+
+#: includes/page-settings.php:33 widgets/eb-google-map-extended-widget.php:31
+msgid "Google Map Extended"
+msgstr "Google Map Extended"
+
+#: includes/page-settings.php:41 includes/page-settings.php:62
+msgid "Google Map API"
+msgstr "API Google Map"
+
+#: includes/page-settings.php:45
+msgid "Pro Version"
+msgstr "Version Pro"
+
+#: includes/page-settings.php:46
+msgid ""
+"<p>If you are looking to enhance your Google Map experience in Elementor "
+"such as animation, styles, marker clustering, marker listing or direction, "
+"then the Pro version is for you. Take a look at the <a href=\"https://"
+"internetcss.com/elementor-google-map-extended-pro-demo/\" target=\"_blank"
+"\">demo</a> and see what the Multiple Map Marker For Elementor Page Builder Pro can do and "
+"help you in your Project.</p><p class=\"submit\"><a href=\"https://"
+"internetcss.com/elementor-google-map-extended-pro-demo/\" class=\"button "
+"button-primary\" target=\"_blank\">View Demo</a></p>"
+msgstr ""
+"<p>Si vous souhaitez enrichir votre expérience de Google Map dans "
+"Elementor, telle que l’animation, les styles, le regroupement de points, la "
+"liste de points ou la direction, la version PRO est pour vous. Jetez un "
+"oeil à la <a href=\"https://internetcss.com/elementor-google-map-extended-"
+"pro-demo/\" target=\"_blank\">démo</a> pour voir ce que peut faire "
+"Multiple Map Marker For Elementor Page Builder PRO et vous aider dans votre projet.</p><p "
+"class=\"submit\"><a href=\"https://internetcss.com/elementor-google-map-"
+"extended-pro-demo/\" class=\"button button-primary\" target=\"_blank\">Voir "
+"la démo</a></p>"
+
+#: includes/page-settings.php:63
+msgid ""
+"You will need Google Map API in order to use Elementor Map Extended Module. "
+"If not you can <a href=\"https://developers.google.com/maps/documentation/"
+"javascript/get-api-key\" target=\"_blank\">click here</a> to generate one."
+msgstr ""
+"Vous aurez besoin de l'API Google Map pour utiliser le module Google Map "
+"Extended. Si vous n’en possédez pas vous pouvez <a href=\"https://"
+"developers.google.com/maps/documentation/javascript/get-api-key\" target="
+"\"_blank\">cliquer ici</a> pour en générer une."
+
+#: includes/page-settings.php:64
+msgid "Enter your Google Map API here"
+msgstr "Entrez votre API Google Map ici"
+
+#: widgets/eb-google-map-extended-widget.php:81
+msgid "Map"
+msgstr "Carte"
+
+#: widgets/eb-google-map-extended-widget.php:99
+#: widgets/eb-google-map-extended-widget.php:376
+#: widgets/eb-google-map-extended-widget.php:385
+msgid "Find Latitude & Longitude"
+msgstr "Trouver Latitude & Longitude"
+
+#: widgets/eb-google-map-extended-widget.php:109
+#: widgets/eb-google-map-extended-widget.php:392
+msgid "Latitude"
+msgstr "Latitude"
+
+#: widgets/eb-google-map-extended-widget.php:119
+#: widgets/eb-google-map-extended-widget.php:397
+msgid "Longitude"
+msgstr "Longitude"
+
+#: widgets/eb-google-map-extended-widget.php:130
+msgid "Zoom Level"
+msgstr "Niveau de zoom"
+
+#: widgets/eb-google-map-extended-widget.php:147
+msgid "Height"
+msgstr "Hauteur"
+
+#: widgets/eb-google-map-extended-widget.php:164
+msgid "Map Type"
+msgstr "Type de carte"
+
+#: widgets/eb-google-map-extended-widget.php:167
+msgid "Road Map"
+msgstr "Carte routière"
+
+#: widgets/eb-google-map-extended-widget.php:168
+msgid "Satellite"
+msgstr "Satellite"
+
+#: widgets/eb-google-map-extended-widget.php:169
+msgid "Hybrid"
+msgstr "Hybride"
+
+#: widgets/eb-google-map-extended-widget.php:170
+msgid "Terrain"
+msgstr "Terrain"
+
+#: widgets/eb-google-map-extended-widget.php:179
+msgid "Gesture Handling"
+msgstr "Manipulation des gestes"
+
+#: widgets/eb-google-map-extended-widget.php:182
+msgid "Auto (Default)"
+msgstr "Auto (par défaut)"
+
+#: widgets/eb-google-map-extended-widget.php:183
+msgid "Cooperative"
+msgstr "Cooperative"
+
+#: widgets/eb-google-map-extended-widget.php:184
+msgid "Greedy"
+msgstr "Gourmand"
+
+#: widgets/eb-google-map-extended-widget.php:185
+msgid "None"
+msgstr "Aucun"
+
+#: widgets/eb-google-map-extended-widget.php:188
+msgid ""
+"Understand more about Gesture Handling by reading it <a href=\"https://"
+"developers.google.com/maps/documentation/javascript/reference/3/#MapOptions"
+"\" target=\"_blank\">here.</a> Basically it control how it handles gestures "
+"on the map. Used to be draggable and scroll wheel function which is "
+"deprecated."
+msgstr ""
+"En savoir davantage sur la la gestion des gestes en allant lire <a href="
+"\"https://developers.google.com/maps/documentation/javascript/reference/3/"
+"#MapOptions\" target=\"_blank\">ici.</a> Fondamentalement, cela contrôle la "
+"façon dont sont géré les gestes sur la carte. La fonction de molette de "
+"défilement est souvent déconseillée."
+
+#: widgets/eb-google-map-extended-widget.php:205
+msgid "Show Zoom Control"
+msgstr "Afficher les contrôles du zoom"
+
+#: widgets/eb-google-map-extended-widget.php:214
+#: widgets/eb-google-map-extended-widget.php:274
+msgid "Control Position"
+msgstr "Position du contrôle"
+
+#: widgets/eb-google-map-extended-widget.php:217
+#: widgets/eb-google-map-extended-widget.php:309
+msgid "Bottom Right (Default)"
+msgstr "En bas à droite (par défaut)"
+
+#: widgets/eb-google-map-extended-widget.php:218
+#: widgets/eb-google-map-extended-widget.php:310
+msgid "Top Left"
+msgstr "En haut à gauche"
+
+#: widgets/eb-google-map-extended-widget.php:219
+#: widgets/eb-google-map-extended-widget.php:278
+#: widgets/eb-google-map-extended-widget.php:311
+msgid "Top Center"
+msgstr "En haut au centre"
+
+#: widgets/eb-google-map-extended-widget.php:220
+#: widgets/eb-google-map-extended-widget.php:279
+#: widgets/eb-google-map-extended-widget.php:312
+msgid "Top Right"
+msgstr "En haut à droite"
+
+#: widgets/eb-google-map-extended-widget.php:221
+#: widgets/eb-google-map-extended-widget.php:280
+#: widgets/eb-google-map-extended-widget.php:313
+msgid "Left Center"
+msgstr "Au centre à gauche"
+
+#: widgets/eb-google-map-extended-widget.php:222
+#: widgets/eb-google-map-extended-widget.php:281
+#: widgets/eb-google-map-extended-widget.php:314
+msgid "Right Center"
+msgstr "A droite au centre"
+
+#: widgets/eb-google-map-extended-widget.php:223
+#: widgets/eb-google-map-extended-widget.php:282
+#: widgets/eb-google-map-extended-widget.php:315
+msgid "Bottom Left"
+msgstr "En bas à gauche"
+
+#: widgets/eb-google-map-extended-widget.php:224
+#: widgets/eb-google-map-extended-widget.php:283
+#: widgets/eb-google-map-extended-widget.php:316
+msgid "Bottom Center"
+msgstr "En bas au centre"
+
+#: widgets/eb-google-map-extended-widget.php:225
+#: widgets/eb-google-map-extended-widget.php:284
+#: widgets/eb-google-map-extended-widget.php:317
+msgid "Bottom Right"
+msgstr "En bas et à droite"
+
+#: widgets/eb-google-map-extended-widget.php:238
+msgid "Show Default UI"
+msgstr "Afficher l'interface utilisateur par défaut"
+
+#: widgets/eb-google-map-extended-widget.php:247
+msgid "Map Type Control"
+msgstr "Type de contrôle de carte"
+
+#: widgets/eb-google-map-extended-widget.php:256
+msgid "Control Styles"
+msgstr "Styles de contrôle"
+
+#: widgets/eb-google-map-extended-widget.php:259
+msgid "Default"
+msgstr "Par défaut"
+
+#: widgets/eb-google-map-extended-widget.php:260
+msgid "Horizontal Bar"
+msgstr "Barre horizontale"
+
+#: widgets/eb-google-map-extended-widget.php:261
+msgid "Dropdown Menu"
+msgstr "Menu déroulant"
+
+#: widgets/eb-google-map-extended-widget.php:277
+msgid "Top Left (Default)"
+msgstr "En haut à gauche (par défaut)"
+
+#: widgets/eb-google-map-extended-widget.php:297
+msgid "Show Streetview Control"
+msgstr "Afficher le contrôle Streetview"
+
+#: widgets/eb-google-map-extended-widget.php:306
+msgid "Streetview Position"
+msgstr "Position Streetview"
+
+#: widgets/eb-google-map-extended-widget.php:330
+msgid "Custom Map Style"
+msgstr "Styles personnalisés de carte"
+
+#: widgets/eb-google-map-extended-widget.php:332
+msgid ""
+"Add style from <a href=\"https://mapstyle.withgoogle.com/\" target=\"_blank"
+"\">Google Map Styling Wizard</a> or <a href=\"https://snazzymaps.com/explore"
+"\" target=\"_blank\">Snazzy Maps</a>. Copy and Paste the style in the "
+"textarea."
+msgstr ""
+"Ajouter un style à partir de <a href=\"https://mapstyle.withgoogle.com/\" "
+"target=\"_blank\">Google Map Styling Wizard</a> ou <a href=\"https://"
+"snazzymaps.com/explore\" target=\"_blank\">Snazzy Maps</a>. Copiez et "
+"collez les styles dans la zone de texte."
+
+#: widgets/eb-google-map-extended-widget.php:342
+msgid "View"
+msgstr "Voir"
+
+#: widgets/eb-google-map-extended-widget.php:354
+msgid "Marker Pins"
+msgstr "Points à marquer"
+
+#: widgets/eb-google-map-extended-widget.php:361
+msgid "InfoWindow Max Width"
+msgstr "Largeur maxi de l’info-bulle"
+
+#: widgets/eb-google-map-extended-widget.php:371
+msgid "Pin Item"
+msgstr "Élément de point"
+
+#: widgets/eb-google-map-extended-widget.php:375
+msgid "Pin #1"
+msgstr "Point N°1"
+
+#: widgets/eb-google-map-extended-widget.php:379
+msgid ""
+"I am item content. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+"Je suis un élément de contenu. Cliquez sur le bouton modifier pour changer "
+"ce texte."
+
+#: widgets/eb-google-map-extended-widget.php:402
+msgid "Marker Icon"
+msgstr "Icône marqueur"
+
+#: widgets/eb-google-map-extended-widget.php:405
+msgid "Default (Google)"
+msgstr "Par défaut (Google)"
+
+#: widgets/eb-google-map-extended-widget.php:406
+msgid "Red"
+msgstr "Rouge"
+
+#: widgets/eb-google-map-extended-widget.php:407
+msgid "Blue"
+msgstr "Bleu"
+
+#: widgets/eb-google-map-extended-widget.php:408
+msgid "Yellow"
+msgstr "Jaune"
+
+#: widgets/eb-google-map-extended-widget.php:409
+msgid "Purple"
+msgstr "Mauve"
+
+#: widgets/eb-google-map-extended-widget.php:410
+msgid "Green"
+msgstr "Vert"
+
+#: widgets/eb-google-map-extended-widget.php:411
+msgid "Orange"
+msgstr "Orange"
+
+#: widgets/eb-google-map-extended-widget.php:412
+msgid "Grey"
+msgstr "Gris"
+
+#: widgets/eb-google-map-extended-widget.php:413
+msgid "White"
+msgstr "Blanc"
+
+#: widgets/eb-google-map-extended-widget.php:414
+msgid "Black"
+msgstr "Noir"
+
+#: widgets/eb-google-map-extended-widget.php:420
+msgid "Title"
+msgstr "Titre"
+
+#: widgets/eb-google-map-extended-widget.php:422
+msgid "Pin Title"
+msgstr "Titre du point"
+
+#: widgets/eb-google-map-extended-widget.php:427
+msgid "Content"
+msgstr "Contenu"
+
+#: widgets/eb-google-map-extended-widget.php:429
+msgid "Pin Content"
+msgstr "Contenu du point"
+
+#: widgets/eb-google-map-extended-widget.php:442
+msgid "Pin Global Styles"
+msgstr "Styles globaux des points"
+
+#: widgets/eb-google-map-extended-widget.php:450
+msgid "Title Color"
+msgstr "Couleur du titre"
+
+#: widgets/eb-google-map-extended-widget.php:461
+msgid "Title Typography"
+msgstr "Typographie du titre"
+
+#: widgets/eb-google-map-extended-widget.php:471
+msgid "Title Text Shadow"
+msgstr "Ombre du titre"
+
+#: widgets/eb-google-map-extended-widget.php:482
+msgid "Content Color"
+msgstr "Couleur du contenu"
+
+#: widgets/eb-google-map-extended-widget.php:493
+msgid "Content Typography"
+msgstr "Typographie du contenu"
+
+#: widgets/eb-google-map-extended-widget.php:503
+msgid "Content Text Shadow"
+msgstr "Ombre du texte du contenu"
+
+#: widgets/eb-google-map-extended-widget.php:513
+msgid "Alignment"
+msgstr "Alignement"
+
+#: widgets/eb-google-map-extended-widget.php:517
+msgid "Left"
+msgstr "À gauche"
+
+#: widgets/eb-google-map-extended-widget.php:521
+msgid "Center"
+msgstr "Au centre"
+
+#: widgets/eb-google-map-extended-widget.php:525
+msgid "Right"
+msgstr "A droite"
+
+#: widgets/eb-google-map-extended-widget.php:529
+msgid "Justified"
+msgstr "Justifié"

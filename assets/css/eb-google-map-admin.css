@@ -1,0 +1,19 @@
+.elementor-panel #elementor-panel-category-eb-elementor-extended .elementor-panel-category-title {
+    background-color: #9b0a46;
+    color: #fff;
+    padding: 20px;
+    margin: 5px 10px;
+    border-radius: 3px;
+}
+.elementor-panel #elementor-panel-category-eb-elementor-extended .elementor-panel-category-title:before {
+    right: 15px;
+}
+.eb-map-find-address {
+	margin-top: 10px;
+    margin-bottom: 10px;
+}
+#eb-output-result {
+	margin-bottom: 10px;
+    line-height: 1.3;
+    font-size: 12px;
+}
